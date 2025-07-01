@@ -10,7 +10,6 @@ The visualizations helped illustrate my main argument: that musical movement can
 
 [![Watch the live performance](https://img.youtube.com/vi/7YFJ3JSFubU/0.jpg)](https://www.youtube.com/watch?v=7YFJ3JSFubU)
 
-----
 
 ## 🎧 Try It Yourself
 
