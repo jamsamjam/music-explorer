@@ -1,5 +1,7 @@
 # Structural Music Feature Explorer
 
+![Screenshot of Music Explorer page](screenshot.png)
+
 ## 📄 What This Project Was About
 
 This analysis was part of a broader report completed for [HUM-274](https://edu.epfl.ch/coursebook/en/musical-theory-and-creativity-HUM-274), exploring how Zimmer’s *Time* builds emotional intensity not through harmonic complexity or melodic variation, but through subtle changes in texture, repetition, and perceived motion. 
