@@ -23,6 +23,4 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-This will open a browser window where you can upload a `.wav` file and view the full audio feature analysis. This framework works especially well for music with clear builds, minimalism, or evolving textures.
-
-Happy listening and analyzing!
+This will open a browser window where you can upload a `.wav` file and view the full audio feature analysis.
