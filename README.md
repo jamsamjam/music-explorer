@@ -8,7 +8,7 @@ This analysis was part of a broader report completed for [HUM-274](https://edu.e
 
 The visualizations helped illustrate my main argument: that musical movement can be deeply felt even when very little changes on the surface.
 
-[Read the Full Essay](essay.pdf)  
+[You can read my essay here!](essay.pdf)  
 
 [![Watch the live performance](https://img.youtube.com/vi/7YFJ3JSFubU/0.jpg)](https://www.youtube.com/watch?v=7YFJ3JSFubU)
 
